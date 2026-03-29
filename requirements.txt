@@ -1,4 +1,7 @@
 streamlit
 akshare
 pandas
-datetime
+requests
+beautifulsoup4
+lxml
+html5lib
